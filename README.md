@@ -49,7 +49,6 @@ source venv/bin/activate  # 또는 venv\Scripts\activate (Windows)
 pip install pandas selenium beautifulsoup4 webdriver-manager
 
 # 실행
-```
 python findora.py
 ```
 
